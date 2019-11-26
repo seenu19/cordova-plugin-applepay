@@ -61,6 +61,7 @@
 		  <config-file target="*-Release.plist" parent="com.apple.developer.authentication-services.autofill-credential-provider">
 			   	<true/>
 		  </config-file>
+	   
 		  
 	
     </platform>
