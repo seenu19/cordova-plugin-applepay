@@ -56,6 +56,7 @@
 		  <!-- Adding autofill-credential-provider -->	  
 	  	   <config-file target="*-Debug.plist" parent="com.apple.developer.authentication-services.autofill-credential-provider">
 			  		<true/>
+			   <!-- Bool -->
 		  </config-file>
 
 		  <config-file target="*-Release.plist" parent="com.apple.developer.authentication-services.autofill-credential-provider">
